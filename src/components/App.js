@@ -123,7 +123,7 @@ class App extends Component {
             <main role="main" className="col-lg-12 ml-auto mr-auto" style={{ maxWidth: '600px' }}>
               <div className="content mr-auto ml-auto">
                 <a
-                  href="http://www.dappuniversity.com/bootcamp"
+                  href="https://www.linkedin.com/in/srvsmn/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -141,3 +141,6 @@ class App extends Component {
 }
 
 export default App;
+//truffle exec scripts/issue-token.js  for token transfer
+// truffle compile -- for compile contract
+// truffle migrate -- for deploying
