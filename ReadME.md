@@ -1,5 +1,4 @@
-# DeFi Project
-### This is a Decentralised Finanace Project developed by refering [this](https://youtu.be/CgXQC4dbGUE)
+# Staking-and-Reward
 
 ## About the Application
 ### There are 3 Smart Contract in this project, where 2 sol file is for ERC20 tokens, where one of the token is mock Dai or mDai, which is acting as the colateral for this project. The user will have to Deposit the mDai token to TokenFram SmartContract and for depositing our mDai we will get staking reward in form of Dapp Tokens.
